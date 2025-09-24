@@ -81,8 +81,6 @@ echo " Configurando arquivos do projeto..."
 
 # Torna scripts executáveis
 chmod +x start_libras.sh
-chmod +x test_camera.py
-chmod +x test_gpio.py
 chmod +x monitor.py
 chmod +x optimize.sh
 
